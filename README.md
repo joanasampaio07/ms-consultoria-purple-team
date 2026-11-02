@@ -48,11 +48,11 @@ E acesse no navegador: `http://localhost:8080`
 
 ---
 
-## ⚙️ Personalização de Contatos
+## ⚙️ Contatos Configurados
 
-No arquivo `index.html`, você pode personalizar:
-- **WhatsApp**: substitua `5511999999999` pelo número de WhatsApp oficial da sua empresa (linhas 741 e 870).
-- **E-mail**: altere `contato@msconsultoria.sec` para o seu e-mail corporativo (linha 751).
+No arquivo `index.html`, já foram integrados:
+- **WhatsApp**: `+55 (61) 99932-3035` (link direto com mensagem pré-formatada).
+- **E-mail**: `mesconsutoria@gmail.com` (link direto via mailto).
 
 ---
 
